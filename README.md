@@ -1,6 +1,6 @@
 # Hello There!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></a>
 
-<img align='right' src="https://giphy.com/embed/QssGEmpkyEOhBCb7e1" width="230">
+<img align='right' src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="230">
 
 ## About Me :grinning:
 
