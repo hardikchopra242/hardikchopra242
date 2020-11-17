@@ -20,4 +20,5 @@ I’m currently learning MERN stack.
 [instagram]:https://www.instagram.com/hardik._.chopra/
 [linkedin]: https://www.linkedin.com/in/hardik-chopra-62b6771a8/
 
+<br /><br />
 [![Hardik's github stats](https://github-readme-stats.vercel.app/api?username=hardikchopra242)](https://github.com/hardikchopra242/github-readme-stats)
