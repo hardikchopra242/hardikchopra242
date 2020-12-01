@@ -8,7 +8,8 @@
 I am Hardik Chopra from Punjab,India.
 I am an engineering student at NIT Jalandhar.
 I am a future Full Stack Web Developer.
-I’m currently learning MERN stack.
+I’m learning MERN stack.
+Currently suffering from Exams :zipper_mouth_face:
 ```
 ### Connect with me:
 
