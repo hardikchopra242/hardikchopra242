@@ -10,7 +10,7 @@ I am an engineering student at NIT Jalandhar.
 I am a future Full Stack Web Developer.
 I’m learning MERN stack.
 ``` 
-#####Currently suffering from Exams  :zipper_mouth_face:
+##### Currently suffering from Exams  :zipper_mouth_face:
 ### Connect with me:
 
 [<img align="left" alt="HardikChopra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
