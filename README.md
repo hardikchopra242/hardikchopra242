@@ -1,16 +1,17 @@
-# Hello There!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></a>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Hardik</h1>
+<h3 align="center">A passionate Web Developer 👨‍💻 </h3>
 
-<img align='right' src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="230">
+-  ⚡  &nbsp; Engineering Student at NITJ
 
-## About Me :grinning:
+- 🌱 &nbsp; I’m currently learning **React**
 
-```javascript
-I am Hardik Chopra from Punjab,India.
-I am an engineering student at NIT Jalandhar.
-I am a future Full Stack Web Developer.
-I’m learning MERN stack.
-``` 
-#### Currently suffering from Exams :zipper_mouth_face:
+- 🤓 &nbsp; Curious to learn ML/AI 💻
+
+- 📫 &nbsp; How to Reach me : [Website](https://github.com/hardikchopra242/hardikchopra)
+
+<!--  - 🙇 &nbsp; Currently working Repo -> []()    -->
+
+
 ### Connect with me:
 
 [<img align="left" alt="HardikChopra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -23,3 +24,17 @@ I’m learning MERN stack.
 
 <br /><br />
 [![Hardik's github stats](https://github-readme-stats.vercel.app/api?username=hardikchopra242&show_icons=true&theme=radical)](https://github.com/hardikchopra242/github-readme-stats)
+
+
+
+<!-- Older one
+# Hello There!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></a>
+<img align='right' src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="230">
+## About Me :grinning:
+```javascript
+I am Hardik Chopra from Punjab,India.
+I am an engineering student at NIT Jalandhar.
+I am a future Full Stack Web Developer.
+I’m learning MERN stack.
+``` 
+#### Currently suffering from Exams :zipper_mouth_face:  -->
