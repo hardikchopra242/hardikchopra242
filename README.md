@@ -45,8 +45,11 @@
 <summary>📈 My GitHub Stats</summary>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hardikchopra242&show_icons=true&theme=tokyonight" alt="safaelmali" /></p>
-<br>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sw-257.sw-257)
+
+<br />
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=hardikchopra242.hardikchopra242)
+
 </details>
 
 ---
