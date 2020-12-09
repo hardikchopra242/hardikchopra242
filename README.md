@@ -30,16 +30,26 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>&nbsp;
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>&nbsp;
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>&nbsp;
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png"></code>&nbsp;
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>&nbsp;
+
+---
+
+<details>
+<summary>📈 My GitHub Stats</summary>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hardikchopra242&show_icons=true&theme=tokyonight" alt="safaelmali" /></p>
+
+</details>
+
+---
+
 
 
 
 [instagram]:https://www.instagram.com/hardik._.chopra/
 [linkedin]: https://www.linkedin.com/in/hardik-chopra-62b6771a8/
-
-<br /><br />
-[![Hardik's github stats](https://github-readme-stats.vercel.app/api?username=hardikchopra242&show_icons=true&theme=radical)](https://github.com/hardikchopra242/github-readme-stats)
-
-
 
 <!-- Older one
 # Hello There!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></a>
@@ -51,4 +61,7 @@ I am an engineering student at NIT Jalandhar.
 I am a future Full Stack Web Developer.
 I’m learning MERN stack.
 ``` 
-#### Currently suffering from Exams :zipper_mouth_face:  -->
+#### Currently suffering from Exams :zipper_mouth_face:  
+<br /><br />
+[![Hardik's github stats](https://github-readme-stats.vercel.app/api?username=hardikchopra242&show_icons=true&theme=radical)](https://github.com/hardikchopra242/github-readme-stats)
+-->
