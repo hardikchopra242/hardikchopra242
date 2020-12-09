@@ -45,7 +45,8 @@
 <summary>📈 My GitHub Stats</summary>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hardikchopra242&show_icons=true&theme=tokyonight" alt="safaelmali" /></p>
-
+<br>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sw-257.sw-257)
 </details>
 
 ---
@@ -74,4 +75,4 @@ I’m learning MERN stack.
 <br /><br />
 [![Hardik's github stats](https://github-readme-stats.vercel.app/api?username=hardikchopra242&show_icons=true&theme=radical)](https://github.com/hardikchopra242/github-readme-stats)
 <!-- ![Hey there !! I'm Hardik](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=200&section=header&text=Hi%20👋!I'm%20Hardik&fontSize=50&animation=fadeIn&&fontAlign=center) -->
--->
+
