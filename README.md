@@ -1,6 +1,9 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Hardik</h1>
 <h3 align="center">A passionate Web Developer 👨‍💻 </h3>
 
+<img align='right' src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="230">
+
+
 -  ⚡  &nbsp; Engineering Student at NITJ
 
 - 🌱 &nbsp; I’m currently learning **React**
@@ -20,6 +23,15 @@
 [<img align="left" alt="HardikChopra | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+### Languages and Tools:
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>&nbsp;
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>&nbsp;
+
+
 
 [instagram]:https://www.instagram.com/hardik._.chopra/
 [linkedin]: https://www.linkedin.com/in/hardik-chopra-62b6771a8/
