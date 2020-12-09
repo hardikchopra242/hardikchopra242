@@ -7,7 +7,9 @@
 
 - 🤓 &nbsp; Curious to learn ML/AI 💻
 
-- 📫 &nbsp; How to Reach me : [Website](https://github.com/hardikchopra242/hardikchopra)
+- 💬 Ask me about... Anything [here](https://docs.google.com/forms/d/e/1FAIpQLSfxpMAwHdRX9Nd9WjJyA3vzkXtUQdvfB05LaMTV6NExDZt2fQ/viewform?usp=sf_link)
+
+- 📫 &nbsp; How to Reach me : [Click Me](https://hardikchopra242.github.io/hardikchopra/)
 
 <!--  - 🙇 &nbsp; Currently working Repo -> []()    -->
 
