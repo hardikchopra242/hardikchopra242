@@ -1,5 +1,5 @@
 <!-- [Hey there !! I'm Hardik](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90) -->
-![Hey there !! I'm Hardik](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=300&section=header&text=Hi%20👋! I'm Hardik &fontSize=80&animation=fadeIn&fontAlignY=35&fontAlign=53)
+![Hey there !! I'm Hardik](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=300&section=header&text=Hi%20👋!I'm%20Hardik&fontSize=80&animation=fadeIn&fontAlignY=35&fontAlign=53) 
 
 <!-- <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Hardik</h1> -->
 <h3 align="center">A passionate Web Developer 👨‍💻 </h3>
