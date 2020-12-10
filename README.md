@@ -24,8 +24,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="HardikChopra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="HardikChopra | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="HackerRank | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" />][hackerrank]
 
 <br />
 
@@ -61,6 +62,7 @@
 <!-- Hyperlinks used above -->
 [instagram]:https://www.instagram.com/hardik._.chopra/
 [linkedin]: https://www.linkedin.com/in/hardik-chopra-62b6771a8/
+[hackerrank]: https://www.hackerrank.com/hardikchopra242
 <!-- ------------------------------------------------------------------------------------------------------------- -->
 
 
