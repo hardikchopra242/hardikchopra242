@@ -9,7 +9,7 @@
 
 <!-- About Section --------------------------------------------------------------------------------------------- -->
 
--  ⚡  &nbsp; Engineering Student at NITJ
+-  ⚡  &nbsp; Engineering Student at [NITJ](https://www.nitj.ac.in/)
 
 - 🌱 &nbsp; I’m currently learning **React**
 
