@@ -47,9 +47,11 @@
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hardikchopra242&show_icons=true&theme=tokyonight" alt="safaelmali" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hardikchopra242&show_icons=true&theme=tokyonight" alt="HardikReadmeStats" /></p>
 
 <br />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikchopra242&layout=compact&theme=material-palenight" />
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=hardikchopra242.hardikchopra242) -->
 
