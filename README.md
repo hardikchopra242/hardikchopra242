@@ -13,7 +13,7 @@
 
 - 🌱 &nbsp; I’m currently learning **React**
 
-- 🤓 &nbsp; Curious to learn ML/AI 💻
+- 🤓 &nbsp; Curious to learn IOT 💻
 
 - 💬 Ask me about... Anything [here](https://docs.google.com/forms/d/e/1FAIpQLSfxpMAwHdRX9Nd9WjJyA3vzkXtUQdvfB05LaMTV6NExDZt2fQ/viewform?usp=sf_link)
 
