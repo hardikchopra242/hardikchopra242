@@ -40,7 +40,7 @@
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png"></code>&nbsp;
 <code><img width="40" height="40" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg"></code>&nbsp;
 <code><img width="40" height="40" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg"></code>&nbsp;
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>&nbsp;
+<code><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>&nbsp;
 
 
 
