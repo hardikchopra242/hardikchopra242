@@ -24,21 +24,24 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="HackerRank | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" />][hackerrank]
+[<img align="left" alt="Linkedin | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="HackerRank | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" />][hackerrank]
 
 <br />
 
 ### Languages and Tools:
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png"></code>&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>&nbsp;
+<code><img width="40" height="40" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"></code>&nbsp;
+<code><img width="40" height="40" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg"></code>&nbsp;
+<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;
+<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>&nbsp;
+<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>&nbsp;
+<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png"></code>&nbsp;
+<code><img width="40" height="40" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg"></code>&nbsp;
+<code><img width="40" height="40" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg"></code>&nbsp;
+<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>&nbsp;
+
 
 
 <!-- Github Stats------------------------------------------------------------------------------------------------ -->
@@ -91,4 +94,8 @@ I’m learning MERN stack.
 [![Hardik's github stats](https://github-readme-stats.vercel.app/api?username=hardikchopra242&show_icons=true&theme=radical)](https://github.com/hardikchopra242/github-readme-stats)
 <!-- ![Hey there !! I'm Hardik](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=200&section=header&text=Hi%20👋!I'm%20Hardik&fontSize=50&animation=fadeIn&&fontAlign=center) -->
 <!--username=hardikchopra242&count_private=true&show_icons=true&hide_title=true&include_all_commits=true -->
+
+<!-- HTML5  and CSS3
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png  -->
 
