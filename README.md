@@ -49,14 +49,16 @@
 
 <!-- Readme Stats -->
 <p align="center">&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hardikchopra242&show_icons=true&theme=tokyonight" alt="HardikReadmeStats" />
+<img src="https://github-readme-stats.vercel.app/api?username=hardikchopra242&show_icons=true&theme=graywhite" alt="HardikReadmeStats" />
 </p>
+
+<!-- align="center"  -->
 
 <br />
 
 <!-- Most Languages Used -->
 <p align="center">&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikchopra242&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikchopra242&layout=compact&theme=graywhite" />
 </p>
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=hardikchopra242.hardikchopra242) -->
