@@ -49,7 +49,7 @@
 
 <!-- Readme Stats -->
 <p align="center">&nbsp;
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=hardikchopra242&show_icons=true&theme=graywhite" alt="HardikReadmeStats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=hardikchopra242&count_private=true&show_icons=true&theme=graywhite" alt="HardikReadmeStats" />
 </p>
 
 <br />
@@ -90,4 +90,5 @@ I’m learning MERN stack.
 <br /><br />
 [![Hardik's github stats](https://github-readme-stats.vercel.app/api?username=hardikchopra242&show_icons=true&theme=radical)](https://github.com/hardikchopra242/github-readme-stats)
 <!-- ![Hey there !! I'm Hardik](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=200&section=header&text=Hi%20👋!I'm%20Hardik&fontSize=50&animation=fadeIn&&fontAlign=center) -->
+<!--username=hardikchopra242&count_private=true&show_icons=true&hide_title=true&include_all_commits=true -->
 
