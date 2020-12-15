@@ -21,15 +21,6 @@
 
 <!--  - 🙇 &nbsp; Currently working Repo -> []()    -->
 
-
-### Connect with me:
-
-[<img align="left" alt="Linkedin | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="HackerRank | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" />][hackerrank]
-
-<br />
-
 ### Languages and Tools:
 
 <code><img width="40" height="40" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"></code>&nbsp;
@@ -42,6 +33,17 @@
 <code><img width="40" height="40" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg"></code>&nbsp;
 <code><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>&nbsp;
 
+---
+
+### Connect with me:
+
+[<img align="left" alt="Linkedin | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="HackerRank | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" />][hackerrank]
+
+<br />
+
+---
 
 <!-- Github Stats------------------------------------------------------------------------------------------------ 
 ---
