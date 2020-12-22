@@ -45,6 +45,15 @@
 
 ---
 
+<details>
+<summary>📈 My GitHub Stats</summary
+<p align="center">&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikchopra242&layout=compact&theme=graywhite" />
+</p>                     
+
+</details>
+
+
 <!-- Github Stats------------------------------------------------------------------------------------------------ 
 ---
 <details>
