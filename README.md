@@ -37,9 +37,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Linkedin | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="HackerRank | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" />][hackerrank]
+[<img align="left" alt="Linkedin | LinkedIn" width="30px" src="https://i.stack.imgur.com/VrlLG.png" />][linkedin]
+[<img align="left" alt="HackerRank | HackeRank" width="30px" src="https://i.stack.imgur.com/giL3d.png" />][hackerrank]
 
 <br />
 
