@@ -60,17 +60,17 @@
 <summary>📈 My GitHub Stats</summary
                         <!--  Readme Stats (comment) -->
 <p align="center">&nbsp;
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=hardikchopra242&count_private=true&show_icons=true&theme=graywhite" alt="HardikReadmeStats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=hardikchopra242&count_private=true&show_icons=true&theme=graywhite&hide=prs,issues" alt="HardikReadmeStats" />
 </p>
 <br />
-                     <!-- Most Languages Used (comment) -->
+                     <!-- Most Languages Used (comment) 
 <p align="center">&nbsp;
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikchopra242&layout=compact&theme=graywhite" />
-</p>
+</p>-->
                
 </details>
 
----
+
 
 <!-- --------------------------------------  ![visitors](https://visitor-badge.glitch.me/badge?page_id=hardikchopra242.hardikchopra242) (comment)  ----------------------------------------------------------------------- -->
 
