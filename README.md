@@ -11,9 +11,9 @@
 
 -  ⚡  &nbsp; Engineering Student at [NITJ](https://www.nitj.ac.in/)
 
-- 🌱 &nbsp; I’m currently learning **React**
+<!-- - 🌱 &nbsp; I’m currently learning **React** -->
 
-- 🤓 &nbsp; Curious to learn IOT 💻
+- 🤓 &nbsp; Curious to learn IoT 💻
 
 - 💬 Ask me about... Anything [here](https://docs.google.com/forms/d/e/1FAIpQLSfxpMAwHdRX9Nd9WjJyA3vzkXtUQdvfB05LaMTV6NExDZt2fQ/viewform?usp=sf_link)
 
