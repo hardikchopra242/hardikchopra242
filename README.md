@@ -13,33 +13,38 @@
 
 <!-- - 🌱 &nbsp; I’m currently learning **React** -->
 
-- 🤓 &nbsp; Curious to learn IoT 💻
+- 🤓 &nbsp; Curious to learn **ML/AI** 💻
 
-- 💬 Ask me about... Anything [here](https://docs.google.com/forms/d/e/1FAIpQLSfxpMAwHdRX9Nd9WjJyA3vzkXtUQdvfB05LaMTV6NExDZt2fQ/viewform?usp=sf_link)
-
-- 📫 &nbsp; How to Reach me : [Click Me](https://hardikchopra242.github.io/hardikchopra/)
+- 💬 Ask me about... Anything [here](hardikchopra242@gmail.com)
 
 <!--  - 🙇 &nbsp; Currently working Repo -> []()    -->
 
 ### Languages and Tools:
 
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>&nbsp;
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>&nbsp;
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>&nbsp;
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png"></code>&nbsp;
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>&nbsp;
-<code><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>&nbsp;
-<code><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>&nbsp;
-<code><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>&nbsp;
+<img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;
+<img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="80" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="40" height="40"/> 
+<img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
+<img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;
+<img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">&nbsp;
+<img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">&nbsp;
+<img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">&nbsp;
+<img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 
 ---
 
 ### Connect with me:
 
-[<img align="left" alt="Linkedin | LinkedIn" width="30px" src="https://i.stack.imgur.com/VrlLG.png" />][linkedin]
-[<img align="left" alt="HackerRank | HackeRank" width="30px" src="https://i.stack.imgur.com/giL3d.png" />][hackerrank]
+
+<a href="https://www.linkedin.com/in/hardikchopra242" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hardik_linkedin" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/hardikchopra242" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="hardik_leetcode" height="30" width="40" /></a>
+<a href="https://dev.to/hardikchopra242" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hardik_dev" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hardikchopra242" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hardik_leetcode" height="30" width="40" /></a>
+
+</p>
 
 <br />
 
