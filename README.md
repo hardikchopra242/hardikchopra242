@@ -15,7 +15,7 @@
 
 - 🤓 &nbsp; Curious to learn **ML/AI** 💻
 
-- 💬 Ask me about... Anything [here](hardikchopra242@gmail.com)
+- 💬 &nbsp; Ask me About Anything - hardikchopra242@gmail.com
 
 <!--  - 🙇 &nbsp; Currently working Repo -> []()    -->
 
@@ -39,7 +39,7 @@
 ### Connect with me:
 
 
-<a href="https://www.linkedin.com/in/hardikchopra242" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hardik_linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hardik-chopra-62b6771a8/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hardik_linkedin" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hardikchopra242" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="hardik_leetcode" height="30" width="40" /></a>
 <a href="https://dev.to/hardikchopra242" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hardik_dev" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hardikchopra242" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hardik_leetcode" height="30" width="40" /></a>
