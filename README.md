@@ -1,38 +1,39 @@
 
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Hardik</h1>
-<h3 align="center">A passionate Web Developer 👨‍💻 </h3>
+<h3 align="center">A Passionate Developer 👨‍💻 </h3>
 
 ---
 
-<img align='right' src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450">
+<img align='right' src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350">
 
 <!-- About Section --------------------------------------------------------------------------------------------- -->
 
 -  ⚡  &nbsp; Engineering Student at [NITJ](https://www.nitj.ac.in/)
 
-<!-- - 🌱 &nbsp; I’m currently learning **React** -->
+-  🌱 &nbsp; I’m currently learning **NextJS**
 
 - 🤓 &nbsp; Curious to learn **ML/AI** 💻
 
 - 💬 &nbsp; Ask me About Anything - hardikchopra242@gmail.com
 
-<!--  - 🙇 &nbsp; Currently working Repo -> []()    -->
+- :robot: &nbsp; Fun Fact : I love Robotics too     
 
 ### Languages and Tools:
 
-<img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;
-<img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="80" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="40" height="40"/> 
-<img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
-<img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;
-<img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">&nbsp;
-<img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">&nbsp;
-<img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">&nbsp;
-<img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+<img width="30" height="30" alt="javascript" title = "javascript"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;
+<img width="30" height="30" alt="react" title = "react"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">&nbsp;
+<img width="30" height="30" alt="nodejJS" title = "nodeJS"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">&nbsp;
+<img alt="nextjs" title = "nextjs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="linux" width="30" height="30"/> 
+<img width="30" height="30" alt="postgres" title = "postgres"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">&nbsp;
+<img width="30" height="30" alt="html" title = "html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
+<img width="30" height="30" alt="css" title = "css"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;
+<img width="30" height="30" alt="SASS" title = "SASS"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">&nbsp;
+<img width="30" height="30" alt="C" title = "C" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">&nbsp;
+<img width="30" height="30" alt="C++" title = "C++" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">&nbsp;
+<img width="30" height="30" alt="Git" title = "Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30" alt="Ubuntu" title = "Ubuntu"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="30" height="30" alt="Arduino" title = "Arduino"/> 
 
 ---
 
@@ -61,8 +62,9 @@
 <!-- Github Stats------------------------------------------------------------------------------------------------ 
 --- -->
 
-<details>
+
 <summary>📈 My GitHub Stats</summary
+  </br></br>
                         <!--  Readme Stats (comment) -->
 <p align="center">&nbsp;
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=hardikchopra242&count_private=true&show_icons=true&theme=graywhite&hide=prs,issues" alt="HardikReadmeStats" />
@@ -73,7 +75,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikchopra242&layout=compact&theme=graywhite" />
 </p>-->
                
-</details>
+
 
 
 
