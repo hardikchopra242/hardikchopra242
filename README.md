@@ -12,9 +12,9 @@
 <hr />
 
 <details>
-	<summary align="center"><h3 style="display: inline;">My Skillset</h3></summary>
-	<h4 align="center">Languages / Libraries I Know </h4>
-	<p align="center">
+<summary align="center"><h3 style="display: inline;">My Skillset</h3></summary>
+<h4 align="center">Languages / Libraries I Know </h4>
+<p align="center">
 <img align="center" width="30" height="30" alt="javascript" title = "javascript"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;
 <img align="center" width="30" height="30" alt="react" title = "react"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">&nbsp;
 <img align="center" width="30" height="30" alt="nodejJS" title = "nodeJS"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">&nbsp;
@@ -26,15 +26,14 @@
 <img align="center" width="30" height="30" alt="C++" title = "C++" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">&nbsp;
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="30" height="30" alt="Arduino" title = "Arduino"/> 
 
-  </p>
-	<h4 align="center">Tools I use</h4>
-	<p align="center">
+</p>
+<h4 align="center">Tools I use</h4>
+<p align="center">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30" alt="Ubuntu" title = "Ubuntu"/> 
 <img align="center" width="30" height="30" alt="Git" title = "Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">&nbsp;
 <img align="center" width="30" height="30" alt="postgres" title = "postgres"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">&nbsp;
-
-  </p>
-	<hr />
+</p>
+<hr />
 
 <!-- Statistics Section
 <details align="center">
@@ -42,21 +41,18 @@
 	<p align="center">
   </p>
 -->
-<details align="center">
-  <summary align="center"><h3>Let's Connect </h3></summary>
-    <img height="25" align="center" src="https://img.shields.io/badge/-Email-white?style=flat-square&logo=Gmail&logoColor=red&link=mailto:hardikchopra242@gmail.com">&nbsp;
-    <img height="25" align="center" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hardik-chopra-62b6771a8/)">&nbsp;
-    <img height="25" align="center" src="https://img.shields.io/badge/-Dev.to-white?style=flat-square&logo=Dev.to&logoColor=black&link=https://dev.to/hardikchopra242">&nbsp;
-  <br /> <br />
-    <img height="25" align="center" src="https://img.shields.io/badge/-Leetcode-black?style=flat-square&logo=Leetcode&logoColor=yellow&link=https://leetcode.com/hardikchopra242/)">&nbsp;
-    <img height="25" align="center" src="https://img.shields.io/badge/-GeekforGeeks-white?style=flat-square&logo=Geeksforgeeks&logoColor=54B86B&link=https://auth.geeksforgeeks.org/user/hardikchopra242/practice/">&nbsp;
-    <img height="25" align="center" src="https://img.shields.io/badge/-Hackerrank-5FC867?style=flat-square&logo=Hackerrank&logoColor=black&link=https://www.hackerrank.com/hardikchopra242/)">&nbsp;
-    <img height="25" align="center" src="https://img.shields.io/badge/-Codechef-white?style=flat-square&logo=Codechef&logoColor=713C1D&link=https://www.codechef.com/users/hardik_chopra">&nbsp;
+<p align="center">
+<h3 align="center">Let's Connect </h3>
+<p align="center"> 
+<a href="mailto:hardikchopra242@gmail.com"><img height="25" align="center" src="https://img.shields.io/badge/-Email-white?style=flat-square&logo=Gmail&logoColor=red"></a>&nbsp;
+<a href="https://www.linkedin.com/in/hardik-chopra-62b6771a8/"><img height="25" align="center" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>&nbsp;
+<a href="https://dev.to/hardikchopra242"><img height="25" align="center" src="https://img.shields.io/badge/-Dev.to-white?style=flat-square&logo=Dev.to&logoColor=black"></a>&nbsp;
+</p>
+</p>
+<br /> <br />
 </details>
-</details>
-
----
                
+	       
 <!-- Hyperlinks -->
 [leetcode]:https://leetcode.com/hardikchopra242/
 [linkedin]: https://www.linkedin.com/in/hardik-chopra-62b6771a8/
@@ -64,8 +60,14 @@
 [codechef]: https://www.codechef.com/users/hardik_chopra
 [devto]: https://dev.to/hardikchopra242
 
-
 <!--
+Other Platforms Badges
+<a href="https://leetcode.com/hardikchopra242/"><img height="25" align="center" src="https://img.shields.io/badge/-Leetcode-black?style=flat-square&logo=Leetcode&logoColor=yellow"></a>&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/hardikchopra242/practice/"><img height="25" align="center" src="https://img.shields.io/badge/-GeekforGeeks-white?style=flat-square&logo=Geeksforgeeks&logoColor=54B86B"></a>&nbsp;
+<a href="https://www.hackerrank.com/hardikchopra242/"><img height="25" align="center" src="https://img.shields.io/badge/-Hackerrank-5FC867?style=flat-square&logo=Hackerrank&logoColor=black"></a>&nbsp;
+<a href="https://www.codechef.com/users/hardik_chopra"><img height="25" align="center" src="https://img.shields.io/badge/-Codechef-white?style=flat-square&logo=Codechef&logoColor=713C1D"></a>&nbsp;
+	
+GIFs
 "https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" 
 "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
 "https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"
