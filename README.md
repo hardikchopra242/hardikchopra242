@@ -12,7 +12,7 @@
 <hr />
 
 <details>
-<summary align="center"><h3 style="display: inline;">My Skillset</h3></summary>
+<summary align="center"><h3 style="display: inline;">More About Me ⬇️ </h3></summary>
 <h4 align="center">Languages / Libraries I Know </h4>
 <p align="center">
 <img align="center" width="30" height="30" alt="javascript" title = "javascript"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;
