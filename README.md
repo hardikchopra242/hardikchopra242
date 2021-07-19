@@ -1,4 +1,12 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Hardik</h1>
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Hi%20There!👋&fontSize=80&animation=blink&fontAlignY=35&fontAlign=53)
+
+<!-- Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, -->
+
+<h1 align="center">
+<code>
+	I'm Hardik Chopra
+</code>
+</h1>
 <h3 align="center">A Programmer & Web Developer 👨‍💻 </h3>
 
 ---
@@ -52,6 +60,8 @@
 <br /> <br />
 </details>
                
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=200&section=footer)
 	       
 <!-- Hyperlinks -->
 [leetcode]:https://leetcode.com/hardikchopra242/
