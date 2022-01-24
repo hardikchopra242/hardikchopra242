@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=300&section=header&text=Hi%20There!👋&fontSize=80&animation=blink&fontAlignY=35&fontAlign=53&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=300&section=header&text=Hi%20There!👋&fontSize=80&animation=twinkling&fontAlignY=35&fontAlign=53&fontColor=ffffff)
 
 <!-- Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, -->
 
