@@ -54,7 +54,7 @@
 <p align="center"> 
 <a href="mailto:hardikchopra242@gmail.com"><img height="25" align="center" src="https://img.shields.io/badge/-Email-white?style=flat-square&logo=Gmail&logoColor=red"></a>&nbsp;
 <a href="https://www.linkedin.com/in/hardik-chopra-62b6771a8/"><img height="25" align="center" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>&nbsp;
-<a href="https://dev.to/hardikchopra242"><img height="25" align="center" src="https://img.shields.io/badge/-Dev.to-white?style=flat-square&logo=Dev.to&logoColor=black"></a>&nbsp;
+<a href="https://dev.to/hardikchopra"><img height="25" align="center" src="https://img.shields.io/badge/-Dev.to-white?style=flat-square&logo=Dev.to&logoColor=black"></a>&nbsp;
 </p>
 </p>
 <br /> <br />
@@ -64,16 +64,16 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=footer)
 	       
 <!-- Hyperlinks -->
-[leetcode]:https://leetcode.com/hardikchopra242/
+[leetcode]:https://leetcode.com/hardikchopra/
 [linkedin]: https://www.linkedin.com/in/hardik-chopra-62b6771a8/
 [hackerrank]: https://www.hackerrank.com/hardikchopra242
 [codechef]: https://www.codechef.com/users/hardik_chopra
-[devto]: https://dev.to/hardikchopra242
+[devto]: https://dev.to/hardikchopra
 
 <!--
 Other Platforms Badges
-<a href="https://leetcode.com/hardikchopra242/"><img height="25" align="center" src="https://img.shields.io/badge/-Leetcode-black?style=flat-square&logo=Leetcode&logoColor=yellow"></a>&nbsp;
-<a href="https://auth.geeksforgeeks.org/user/hardikchopra242/practice/"><img height="25" align="center" src="https://img.shields.io/badge/-GeekforGeeks-white?style=flat-square&logo=Geeksforgeeks&logoColor=54B86B"></a>&nbsp;
+<a href="https://leetcode.com/hardikchopra/"><img height="25" align="center" src="https://img.shields.io/badge/-Leetcode-black?style=flat-square&logo=Leetcode&logoColor=yellow"></a>&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/hardikchopra/practice/"><img height="25" align="center" src="https://img.shields.io/badge/-GeekforGeeks-white?style=flat-square&logo=Geeksforgeeks&logoColor=54B86B"></a>&nbsp;
 <a href="https://www.hackerrank.com/hardikchopra242/"><img height="25" align="center" src="https://img.shields.io/badge/-Hackerrank-5FC867?style=flat-square&logo=Hackerrank&logoColor=black"></a>&nbsp;
 <a href="https://www.codechef.com/users/hardik_chopra"><img height="25" align="center" src="https://img.shields.io/badge/-Codechef-white?style=flat-square&logo=Codechef&logoColor=713C1D"></a>&nbsp;
 	
